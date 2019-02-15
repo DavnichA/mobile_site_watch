@@ -1,0 +1,361 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	margin: 0;
+	padding: 0;
+	font-family: "Open Sans",sans-serif;
+	font-size: 14px;
+}
+
+.wrapper{
+	width: 380px;
+	margin: 0 auto;
+}
+
+.head{
+	background: url(../img/fon1.jpg);
+	font-size: cover;
+	position: relative;
+	background-color: #8b8b8b;
+	height: 500px;	
+}
+.head h1{
+    padding-top: 10px;	
+	color: #ffffff;
+	text-align: center;	
+	font-size: 39px;
+	font-family: 'Comfortaa', sans-serif;;
+}
+#head_h_color{
+	color: #087ada;
+}
+
+#inst_rus{
+	padding-top: 5px;
+	font-size: 22px;
+	text-align: center;
+}
+#inst_rus span{
+	color: red;
+}
+#old_cena{
+	position: relative;
+	color: #fff;
+	font-size: 18px;
+	left: 15px;
+	top: 15px;
+	font-family: 'Lobster', sans-serif;
+}
+#new_cena{
+	color: #087ada;
+	font-size: 22px;
+	padding-left: 194px;
+	padding-top: 24px;
+	font-family: 'Lobster', sans-serif;	
+}
+.head a{
+	position: relative;
+	left: 78px;
+	top: 42px;
+}
+
+.button{
+	text-decoration: none;
+	border-radius: 10px;
+	background-color: #acd100;
+	font-size: 32px;
+	padding: 12px 50px;
+	color: #000000;		
+}
+
+/*--------Подсветка Функции Водонепронецаемость------*/
+
+.section1{
+	background-color: #191919;
+}
+
+.section1 img{
+	float: left;
+	margin-top: 40px;
+	margin-left: 5px;
+}
+.section1 h3{
+	color: #ffffff;
+	text-align: center;
+	font-size: 18px;
+	padding-top: 15px;
+}
+.section1 h4{
+	color: #ffffff;
+	text-align: center;
+	font-size: 14px;
+	padding-top: 10px;
+}
+.section1 p{
+	color: #ffffff;	
+	font-size: 15px;
+	padding-top: 20px;
+	padding-bottom: 20px;	
+}
+/*--------почему мы, мировая новинка------*/
+
+.section2{
+	background-color: #e3e3e3;
+	padding-bottom: 15px;
+}
+.section2 img{
+	float: right;
+}
+.section2 h1{
+	font-size: 22px;
+	text-align: center;
+	padding-top: 40px;
+	font-family: 'Comfortaa', sans-serif;;
+}
+.section2 p{	
+	text-align: justify;
+	font-size: 12px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+#sec2_text{
+	padding-top: 42px;
+}
+
+.section2 h2,
+.section2 h3{
+	text-align: center;
+	padding-top: 15px;
+	font-size: 18px;
+	padding-bottom: 15px;
+}
+
+/*------------Фотогалерея часов------------*/
+
+.section3{
+	background-color: #b3b3b3;
+	height: 450px;
+}
+.section3 h1{
+	font-size: 22px;
+	padding-top: 15px;
+	text-align: center;
+	padding-bottom: 15px;
+	font-family: 'Comfortaa', sans-serif;;
+}
+.section3 img{
+	float: left;
+	padding-left: 37px;
+	padding-bottom: 10px;
+}
+
+.section3 a{
+	position: relative;
+	left: 78px;
+	top: 42px;
+}
+
+/*-------------Характеристики часов---------*/
+
+.section4{
+	background-color: #e3e3e3;
+	height: 2750px;
+}
+.head_section4{
+	background-color: #191919;
+	width: 100%;
+	color: #ffffff;
+	text-align: center;
+	font-size: 18px;
+}
+#sec4_img_1{
+	float: left;
+}
+#sec4_txt_1{
+	font-size: 12px;
+	text-align: justify;
+	padding-top: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.line{
+	border: 1px solid #000000;
+	width: 100%;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+#sec4_img_2{
+	margin-left: 80px;
+}
+.section4 h3{
+	text-align: center;
+	font-size: 20px;
+}
+.section4 h4{
+	padding-top: 5px;
+	padding-left: 5px;
+	font-size: 14px;
+}
+#sec4_txt_2{
+	margin-left: 50px;
+	font-size: 14px;
+	opacity: 0.8;
+}
+.left_colum{
+	display: inline-block;
+	width: 185px;
+}
+.right_colum{
+	display: inline-block;
+	width: 185px;
+}
+
+#sec4_img_3{
+	float: left;
+}
+#sec4_txt_3{
+	margin-top: 10px;
+	font-size: 15px;
+}
+#sec4_img_4{
+	margin-left: 60px;
+}
+#sec4_txt_4{
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: justify;
+}
+#sec4_img_5{
+	float: right;
+}
+#sec4_txt_5{
+	margin-left: 5px;
+	margin-right: 5px;
+	font-size: 13px;
+	padding-top: 15px;
+}
+#sec4_img_6{
+	float: right;
+	margin-right: 25px;
+}
+#tittle_battary{
+	font-size: 20px;
+	text-align: center;
+}
+#sec4_txt_6{
+	font-size: 12px;
+	text-align: justify;
+	margin-top: 15px;
+	padding-left: 5px;
+	padding-right: 5px;	
+}
+.section4 a{
+	position: relative;
+	left: 78px;
+	top: 42px;
+}
+/*----------Отзывы о часах-----------*/
+
+.section5{
+	background-color: #1a1a1a;
+	color: #ffffff;
+	height: 1464px;
+}
+.sec5_head{
+	width: 100%;
+	text-align: center;
+	background-color: #ffffff;
+	opacity: 0.7;
+	color: #000000;	
+	font-family: 'Comfortaa', sans-serif;;
+}
+.section5 img{
+	float: left;
+}
+.section5 h2{
+	font-size: 18px;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.section5 p{
+	font-size: 14px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.line_white{
+	border: 1px solid #ffffff;
+	width: 100%;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	opacity: 0.8;
+}
+.section5 a{
+	position: relative;
+	left: 78px;
+	top: 22px;
+}
+
+/*----------------Доставка--------------*/
+
+.section6{
+	background-color: #e3e3e3;
+}
+.sec6_head{
+	width: 100%;
+	text-align: center;
+	background-color: #191919;	
+	color: #ffffff;
+	opacity: 0.7;
+	font-family: 'Comfortaa', sans-serif;;
+}
+.section6 h3{
+	text-align: center;
+	font-size: 16px;
+}
+.section6 p{
+	padding: 10px;
+	font-size: 14px;
+}
+/*----------------Форма и футер--------------*/
+
+.foot{
+	background-color: #1a1a1a;
+	height: 400px;
+}
+.foot h4{
+	padding-top: 25px;
+	text-align: center;
+	font-size: 24px;
+	color: yellow;
+	font-family: 'Lobster', sans-serif;
+}
+#foot_but{
+	position: relative;
+	left: 78px;
+	top: 22px;
+}
+.foot input{
+	width: 250px;
+	height: 40px;
+	margin-left: 67px;
+	margin-top: 20px;
+}
+.foot p{
+	color: #ffffff;
+	margin-top: 98px;
+	text-align: center;
+	font-size: 12px;
+}
+.foot span{
+	color: #ffffff;
+	margin-top: 40px;
+	text-align: center;
+	font-size: 12px;
+}
+#sogl{
+	display: inline-block;
+	color: #fff;
+}
